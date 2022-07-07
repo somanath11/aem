@@ -1,5 +1,7 @@
 # Chapter 2 - Component Basics Start
 
+Test 
+
 This is the starter code branch for [Chapter 2 - Component Basics](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html)
 
 ## Tutorial
